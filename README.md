@@ -1,2 +1,3 @@
-# clone-amazon-prime
-Clone do site Amazon prime video
+### Clone do site Amazon prime video
+
+Veja o projeto em: https://izaacbaptista.github.io/clone-amazon-prime/
